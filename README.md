@@ -1,5 +1,5 @@
 # Cementerios
-Proyecto de desarrollo para cementerios, objetivo aplicar nuestros conocimentos me diante el metodo autodidacta. aportar para que sea un sofware donde pueda crecer como emprendimiento
+Proyecto de desarrollo para cementerios, objetivo aplicar nuestros conocimentos o  metodo autodidacta. aportar para que sea un software sostenible donde pueda crecer como emprendimiento
 *******************
 "Material de trabajo"
 Angular CLI: 19.2.10
